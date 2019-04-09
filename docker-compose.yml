@@ -1,0 +1,11 @@
+
+version : '3'
+
+services : 
+  web:
+    build :
+      context: .
+    image : dev2:latest
+
+    expose :
+      - "8000"
