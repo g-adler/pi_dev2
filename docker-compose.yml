@@ -4,8 +4,10 @@ version : '3'
 services : 
   web:
     build :
-      context: .
+     context: .
     image : dev2:latest
-
+    volumes :
+      - "/home/gadler/Documents/PI2/src :/var/www/html"
     expose :
       - "8000"
+#    entrypoint: "src/start.sh"
