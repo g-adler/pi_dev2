@@ -1,6 +1,6 @@
 FROM  arsaga/laravel-alpine:latest
 
-#COPY ./src/* src/
+COPY ./start.sh src/
 
-#RUN chmod +x src/start.sh
+RUN chmod +x src/start.sh
 
