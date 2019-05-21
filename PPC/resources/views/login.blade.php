@@ -3,6 +3,7 @@
       <meta charset="utf-8">
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
       <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+      <title>PPCWeb</title>
       <style>
       .form-signin {
         width: 100%;
@@ -13,7 +14,7 @@
       </style>
     </head>
 
-  <h1 style="margin-top:150px" class="text-center">Gerenciador de Projetos Pedagógicos de Curso</h1>
+  <h1 style="margin-top:150px" class="text-center">Gestão de Projetos Pedagógicos de Curso</h1>
 
 <body>
   <div class="text-center">
