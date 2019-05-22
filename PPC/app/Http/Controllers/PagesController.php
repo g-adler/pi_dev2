@@ -31,5 +31,8 @@ class PagesController extends Controller
     public function avaliacao(){
       return view('avaliacao');
     }
+    public function ppc(){
+      return view('ppc');
+    }
 
 }
