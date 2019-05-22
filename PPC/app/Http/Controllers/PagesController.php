@@ -34,5 +34,8 @@ class PagesController extends Controller
     public function ppc(){
       return view('ppc');
     }
+    public function filtro(){
+      return view('filtroppc');
+    }
 
 }

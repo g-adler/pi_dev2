@@ -4,7 +4,7 @@
       <meta charset="utf-8">
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
       <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-      
+
       @stack('styling')
 
       <title>PPCWeb</title>
@@ -20,6 +20,8 @@
             <li><a href='/professores'> Professores </a></li>
             <li><a href='/avaliacao'> Avaliação de Curso </a></li>
             <li><a href='/reuniao'> Atas de Reunião </a> </li>
+            <li><a href='/ppc'> Projetos Pedagógicos </a> </li>
+            <li><a href='/filtroppc'> Filtro PPCs por curso </a> </li>
             <li><a href='/ensino'> Planos de Ensino </a></li>
           </ul>
         </div>

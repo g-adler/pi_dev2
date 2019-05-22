@@ -8,6 +8,8 @@ Route::get('/professores', 'PagesController@professores');
 
 Route::get('/ppc', 'PagesController@ppc');
 
+Route::get('/filtroppc', 'PagesController@filtro');
+
 Route::get('/disciplinas', 'PagesController@disciplinas');
 
 Route::get('/ensino', 'PagesController@ensino');

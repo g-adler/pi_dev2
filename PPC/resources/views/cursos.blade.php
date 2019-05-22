@@ -5,39 +5,35 @@
 @section('content')
 <form style="margin:25px">
   <div class="form-row">
-    <div class="form-group col-md-2">
+    <div class="form-group col-md-3">
       <label for="inputEmail4">Tipo do Curso</label>
-      <input type="text" class="form-control" id="inputEmail4">
+      <input type="text" class="form-control">
     </div>
-    <div class="form-group col-md-2">
+    <div class="form-group col-md-3">
       <label for="inputEmail4">Modalidade</label>
-      <input type="text" class="form-control" id="inputEmail4">
+      <input type="text" class="form-control">
     </div>
-    <div class="form-group col-md-2">
+    <div class="form-group col-md-3">
       <label for="inputAddress">Denominação do Curso</label>
       <input type="text" class="form-control"  >
     </div>
-    <div class="form-group col-md-2">
-      <label for="inputAddress">Denominação do Curso</label>
-      <input type="text" class="form-control"  >
-    </div>
-    <div class="form-group col-md-2">
+    <div class="form-group col-md-3">
       <label for="inputAddress">Habilitação</label>
       <input type="text" class="form-control"  >
     </div>
-    <div class="form-group col-md-2">
+    <div class="form-group col-md-3">
       <label for="inputAddress">Local de Oferta</label>
       <input type="text" class="form-control"  >
     </div>
-    <div class="form-group col-md-2">
+    <div class="form-group col-md-3">
       <label for="inputAddress">Turnos de funcionamento</label>
       <input type="text" class="form-control"  >
     </div>
-    <div class="form-group col-md-2">
+    <div class="form-group col-md-3">
       <label for="inputAddress">Número de Vagas para cada Turno</label>
       <input type="number" class="form-control"  >vagas anuais
     </div>
-    <div class="form-group col-md-2">
+    <div class="form-group col-md-3">
       <label for="inputAddress">Carga Horária do Curso</label>
       <input type="number" class="form-control"  >
     </div>
