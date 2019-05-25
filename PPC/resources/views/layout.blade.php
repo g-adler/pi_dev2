@@ -23,6 +23,7 @@
             <li><a href='/ppc'> Projetos Pedagógicos </a> </li>
             <li><a href='/filtroppc'> Filtro PPCs por curso </a> </li>
             <li><a href='/ensino'> Planos de Ensino </a></li>
+            <li><a href='/biblio'> Bibliografias </a></li>
           </ul>
         </div>
       </nav>

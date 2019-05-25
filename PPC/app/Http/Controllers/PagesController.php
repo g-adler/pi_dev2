@@ -37,5 +37,8 @@ class PagesController extends Controller
     public function filtro(){
       return view('filtroppc');
     }
+    public function bibliografias(){
+      return view('bibliografias');
+    }
 
 }

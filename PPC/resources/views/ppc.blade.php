@@ -7,12 +7,12 @@
   <div class="form-row">
     <div class="col-md-12">
       <div class="form-group col-md-4">
-        <label for="inputEmail4">Cursos</label>
+        <label >Cursos</label>
         <input type="textarea" class="form-control" >
       </div>
     </div>
     <div class="form-group col-md-4">
-      <label for="inputEmail4">Perfil Curso</label>
+      <label >Perfil Curso</label>
       <input type="text" class="form-control" >
     </div>
     <div class="form-group col-md-4">

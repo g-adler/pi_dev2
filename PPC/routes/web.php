@@ -17,3 +17,5 @@ Route::get('/ensino', 'PagesController@ensino');
 Route::get('/reuniao', 'PagesController@reuniao');
 
 Route::get('/avaliacao', 'PagesController@avaliacao');
+
+Route::get('/biblio', 'PagesController@bibliografias');
